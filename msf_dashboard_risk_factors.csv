@@ -1,0 +1,41 @@
+country,risk_factor,present
+Sudan,conflict,1
+Sudan,displacement,1
+Sudan,flooding,1
+Sudan,wash_breakdown,1
+Sudan,health_system_strain,1
+Sudan,food_insecurity,1
+Sudan,overcrowding,1
+Sudan,low_vaccination,0
+Democratic Republic of the Congo,conflict,1
+Democratic Republic of the Congo,displacement,1
+Democratic Republic of the Congo,flooding,0
+Democratic Republic of the Congo,wash_breakdown,0
+Democratic Republic of the Congo,health_system_strain,1
+Democratic Republic of the Congo,food_insecurity,1
+Democratic Republic of the Congo,overcrowding,1
+Democratic Republic of the Congo,low_vaccination,1
+South Sudan,conflict,1
+South Sudan,displacement,1
+South Sudan,flooding,1
+South Sudan,wash_breakdown,0
+South Sudan,health_system_strain,1
+South Sudan,food_insecurity,1
+South Sudan,overcrowding,1
+South Sudan,low_vaccination,0
+Gaza Strip,conflict,1
+Gaza Strip,displacement,1
+Gaza Strip,flooding,0
+Gaza Strip,wash_breakdown,1
+Gaza Strip,health_system_strain,1
+Gaza Strip,food_insecurity,1
+Gaza Strip,overcrowding,1
+Gaza Strip,low_vaccination,1
+Haiti,conflict,1
+Haiti,displacement,1
+Haiti,flooding,0
+Haiti,wash_breakdown,1
+Haiti,health_system_strain,1
+Haiti,food_insecurity,1
+Haiti,overcrowding,1
+Haiti,low_vaccination,0

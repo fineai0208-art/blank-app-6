@@ -1,0 +1,10 @@
+country,event_type,event_name,disease,metric_cases,metric_deaths,metric_injuries,start_date,end_date,source_url
+Sudan,disease_outbreak,Cholera outbreak (conflict-driven),Cholera,124418,3573,,2024-07-01,2026-03-03,https://www.emro.who.int/sdn/sudan-news/sudan-declares-an-end-to-its-cholera-outbreak.html
+Sudan,conflict_health_crisis,Sudan civil war displacement crisis,,,17000,,2023-04-15,2026-03-01,https://www.unhcr.org/sites/default/files/2025-07/sudan-emergency-two-year-impact-update.pdf
+Democratic Republic of the Congo,multi_epidemic,Multi-disease emergency (Cholera/Mpox/Measles/Ebola/Polio),Cholera; Mpox; Measles; Ebola; Polio,450000,8700,,2025-01-01,2026-03-01,https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-who-health-emergency-appeal-2026
+Democratic Republic of the Congo,conflict_health_crisis,M23 offensive & mass displacement (North/South Kivu),,,,,2025-01-26,2026-03-01,https://www.unocha.org/democratic-republic-congo
+South Sudan,disease_outbreak,Record cholera outbreak,Cholera,96000,1600,,2024-10-01,2025-11-30,https://www.unocha.org/publications/report/south-sudan/south-sudan-humanitarian-needs-and-response-plan-2026-january-2026
+South Sudan,disease_outbreak,Hepatitis E & Mpox co-outbreak,Hepatitis E; Mpox,,,,2025-01-01,2025-11-30,https://www.unhcr.org/where-we-work/countries/south-sudan
+Gaza Strip,conflict_health_crisis,Gaza war & public health emergency,Multiple infectious disease risks,,63000,161000,2023-10-07,2025-09-10,https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-opt-100925.pdf
+Haiti,conflict_health_crisis,Gang violence mortality crisis,Violence-related,,4864,,2024-10-01,2025-06-30,https://www.ungeneva.org/en/news-media/news/2025/07/108384
+Haiti,disease_outbreak,Petion-Ville cholera resurgence,Cholera,372,17,,2025-09-07,2025-11-09,https://www.paho.org/en/stories/fight-against-cholera-haiti-communities-government-and-health-partners-work-together-save
